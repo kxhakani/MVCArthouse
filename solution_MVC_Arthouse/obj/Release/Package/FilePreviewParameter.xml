@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="mvcarthouse" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\d\\solution_MVC_Arthouse-Part4\ \.2MasterCopy\\solution_MVC_Arthouse\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\d\\solution_MVC_Arthouse-Part4\ \.2MasterCopy\\solution_MVC_Arthouse\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="ArthouseEntities-Web.config Connection String" description="" value="Data Source=tcp:davenc2.database.windows.net,1433;Initial Catalog=MVCArthouse_db;User Id=davenc2@davenc2;Password=sqlAdmin2" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\d\\solution_MVC_Arthouse-Part4\ \.2MasterCopy\\solution_MVC_Arthouse\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ArthouseEntities']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:davenc2.database.windows.net,1433;Initial Catalog=MVCArthouse_db;User Id=davenc2@davenc2;Password=sqlAdmin2" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\d\\solution_MVC_Arthouse-Part4\ \.2MasterCopy\\solution_MVC_Arthouse\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

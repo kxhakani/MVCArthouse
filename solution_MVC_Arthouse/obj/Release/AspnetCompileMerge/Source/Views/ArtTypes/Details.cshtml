@@ -1,0 +1,52 @@
+﻿@model solution_MVC_Arthouse.Models.ArtType
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details for @Model.Type</h2>
+
+<div>
+    <h4>Art Type</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Artworks)
+        </dt>
+
+        <dd>
+            <div class="col-md-6 col-lg-6">
+                <table class="table table-condensed table-responsive">
+                    <tr>
+                        <th>Artwork (Completed)</th>
+                        <th>Estimated Value</th>
+                    </tr>
+                    @foreach (var item in Model.Artworks)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Summary)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Value)
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </div>
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List of Art Types", "Index")
+</p>

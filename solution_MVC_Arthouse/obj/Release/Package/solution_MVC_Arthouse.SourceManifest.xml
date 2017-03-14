@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

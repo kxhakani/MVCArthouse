@@ -1,0 +1,364 @@
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\csc.exe
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\System.Collections.Immutable.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\vbc.exe
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\VBCSCompiler.exe
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\VBCSCompiler.exe.config
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.dll.config
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.pdb
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Antlr3.Runtime.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\EntityFramework.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\EntityFramework.SqlServer.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Google.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Web.Infrastructure.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Newtonsoft.Json.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Owin.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Helpers.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Mvc.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Optimization.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Razor.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.Deployment.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.Razor.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\WebGrease.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Helpers.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Mvc.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Optimization.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Razor.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.Deployment.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.Razor.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Antlr3.Runtime.pdb
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Newtonsoft.Json.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\EntityFramework.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\EntityFramework.SqlServer.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Google.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.csprojResolveAssemblyReference.cache
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.AHEntities.Migrations.InitialCreate.resources
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.AHEntities.Migrations.UniqueArt.resources
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.csproj.GenerateResource.Cache
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.dll
+C:\PROG1612\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.pdb
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\csc.exe
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\System.Collections.Immutable.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\vbc.exe
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\VBCSCompiler.exe
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\VBCSCompiler.exe.config
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.dll.config
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.pdb
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Antlr3.Runtime.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\EntityFramework.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\EntityFramework.SqlServer.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Google.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Web.Infrastructure.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Newtonsoft.Json.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Owin.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Helpers.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Mvc.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Optimization.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Razor.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.Deployment.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.Razor.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\WebGrease.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Helpers.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Mvc.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Optimization.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Razor.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.Deployment.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.Razor.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Antlr3.Runtime.pdb
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Newtonsoft.Json.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\EntityFramework.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\EntityFramework.SqlServer.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Google.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.csprojResolveAssemblyReference.cache
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.AHEntities.Migrations.InitialCreate.resources
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.AHEntities.Migrations.MtoMStudio.resources
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.SecurityEntities.Migrations.InitialSecurity.resources
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.csproj.GenerateResource.Cache
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.dll
+C:\New folder\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.pdb
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\csc.exe
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\System.Collections.Immutable.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\vbc.exe
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\VBCSCompiler.exe
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\roslyn\VBCSCompiler.exe.config
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.dll.config
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.pdb
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Antlr3.Runtime.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\EntityFramework.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\EntityFramework.SqlServer.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Google.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Web.Infrastructure.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Newtonsoft.Json.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Owin.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Helpers.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Mvc.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Optimization.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Razor.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.Deployment.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.Razor.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\WebGrease.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Helpers.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Mvc.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Optimization.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.Razor.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.Deployment.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\System.Web.WebPages.Razor.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Antlr3.Runtime.pdb
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Newtonsoft.Json.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\EntityFramework.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\EntityFramework.SqlServer.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Google.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.csprojResolveAssemblyReference.cache
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.AHEntities.Migrations.InitialCreate.resources
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.AHEntities.Migrations.MtoMStudio.resources
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.SecurityEntities.Migrations.InitialSecurity.resources
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.csproj.GenerateResource.Cache
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.dll
+C:\d\solution_MVC_Arthouse\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.pdb
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\roslyn\csc.exe
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\roslyn\System.Collections.Immutable.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\roslyn\vbc.exe
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\roslyn\VBCSCompiler.exe
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\roslyn\VBCSCompiler.exe.config
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.dll.config
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.pdb
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Antlr3.Runtime.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\EntityFramework.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\EntityFramework.SqlServer.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Google.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Web.Infrastructure.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Newtonsoft.Json.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Owin.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Helpers.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Mvc.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Optimization.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Razor.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.WebPages.Deployment.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.WebPages.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.WebPages.Razor.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\WebGrease.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Helpers.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Mvc.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Optimization.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Razor.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.WebPages.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.WebPages.Deployment.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\System.Web.WebPages.Razor.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Antlr3.Runtime.pdb
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Newtonsoft.Json.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\EntityFramework.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\EntityFramework.SqlServer.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Google.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.csprojResolveAssemblyReference.cache
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.AHEntities.Migrations.InitialCreate.resources
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.AHEntities.Migrations.MtoMStudio.resources
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.SecurityEntities.Migrations.InitialSecurity.resources
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.csproj.GenerateResource.Cache
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.dll
+C:\d\solution_MVC_Arthouse-Part4 .2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.pdb
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\roslyn\csc.exe
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\roslyn\System.Collections.Immutable.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\roslyn\vbc.exe
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\roslyn\VBCSCompiler.exe
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\roslyn\VBCSCompiler.exe.config
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.dll.config
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\solution_MVC_Arthouse.pdb
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Antlr3.Runtime.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\EntityFramework.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\EntityFramework.SqlServer.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Google.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Web.Infrastructure.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Newtonsoft.Json.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Owin.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Helpers.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Mvc.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Optimization.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Razor.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.WebPages.Deployment.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.WebPages.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.WebPages.Razor.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\WebGrease.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Helpers.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Mvc.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Optimization.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.Razor.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.WebPages.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.WebPages.Deployment.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\System.Web.WebPages.Razor.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Antlr3.Runtime.pdb
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Newtonsoft.Json.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\EntityFramework.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\EntityFramework.SqlServer.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Google.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.csprojResolveAssemblyReference.cache
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.AHEntities.Migrations.InitialCreate.resources
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.AHEntities.Migrations.MtoMStudio.resources
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.DAL.SecurityEntities.Migrations.InitialSecurity.resources
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.csproj.GenerateResource.Cache
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.dll
+C:\d\solution_MVC_Arthouse-Part4.2MasterCopy\solution_MVC_Arthouse\obj\Release\solution_MVC_Arthouse.pdb

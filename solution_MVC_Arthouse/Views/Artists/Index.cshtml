@@ -1,0 +1,53 @@
+﻿@model IEnumerable<solution_MVC_Arthouse.Models.Artist>
+
+@{
+    ViewBag.Title = "Artist Index";
+}
+
+<h2>Artist Index</h2>
+
+<table class="table table-condensed">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FullName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Age)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rate)
+        </th>
+        <th>
+            Studios
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Phone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Age)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rate)
+        </td>
+        <td>
+            @{
+                foreach (var st in item.Studios)
+                {
+                    @:  @st.StudioName <br />
+                }
+            }
+        </td>
+    </tr>
+}
+
+</table>

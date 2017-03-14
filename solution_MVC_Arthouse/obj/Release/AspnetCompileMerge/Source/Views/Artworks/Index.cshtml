@@ -1,0 +1,95 @@
+﻿@model IEnumerable<solution_MVC_Arthouse.Models.Artwork>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Artwork Index</h2>
+
+<p>
+    @using (Html.BeginForm())
+    {
+        <div class="form-horizontal">
+            <button class="btn" type="button" data-toggle="collapse" id="filterToggle" data-target="#collapseFilter" aria-expanded="false" aria-controls="collapseFilter">
+                Filter/Search Artworks
+            </button>
+            <div class="collapse @(ViewBag.Filtering)" id="collapseFilter">
+                <div class="well">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="control-label col-md-5">Select by Artist:</label>
+                                <div class="col-md-7">
+                                    @Html.DropDownList("ArtistID", null, "All Artists", htmlAttributes: new { @class = "form-control" })
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-md-5">Select by Type of Art: </label>
+                                <div class="col-md-7">
+                                    @Html.DropDownList("ArtTypeID", null, "All Types", htmlAttributes: new { @class = "form-control" })
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="control-label col-md-5">Search Name & Description:</label>
+                                <div class="col-md-7">
+                                    @Html.TextBox("SearchString", null, new { @class = "form-control" })
+                                </div>
+                            </div>
+                            <div class="col-md-5"></div>
+                            <div class="col-md-7">
+                                <input type="submit" value="Filter" class="btn btn-default" /> @Html.ActionLink("Clear", "Index")
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</p>
+
+<table class="table table-condensed">
+    <tr>
+        <th>
+            @Html.ActionLink("Artwork (Completed)", "Index", new { sortOrder = ViewBag.NameSortParm })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ArtType.Type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Artist.FullName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.ActionLink("Est. Value", "Index", new { sortOrder = ViewBag.ValueSortParm })
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Summary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArtType.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Artist.FullName)
+            </td>
+            <td>
+                @string.Join(" ", item.Description.Split(' ').Take(5))...
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Value)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.ID })
+            </td>
+        </tr>
+    }
+</table>
